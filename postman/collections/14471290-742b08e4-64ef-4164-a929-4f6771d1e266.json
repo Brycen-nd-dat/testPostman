@@ -31,7 +31,7 @@
 							"script": {
 								"id": "d26a9f18-f654-4249-9f9e-b67f7c824aa1",
 								"exec": [
-									"//hello"
+									"//hello1"
 								],
 								"type": "text/javascript",
 								"packages": {}
